@@ -1,8 +1,7 @@
-# Article name here
+# How to use the Ref Intrinsic Function in AWS CDK
 
 A repository for an article on
-[bobbyhadz.com](https://bobbyhadz.com/blog/aws-s3-presigned-url-react)
-`<- Update Link`
+[bobbyhadz.com](https://bobbyhadz.com/blog/ref-intrinsic-function-aws-cdk)
 
 ## How to Use
 
