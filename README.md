@@ -1,7 +1,7 @@
 # How to use the Ref Intrinsic Function in AWS CDK
 
 A repository for an article on
-[bobbyhadz.com](https://bobbyhadz.com/blog/ref-intrinsic-function-aws-cdk)
+[bobbyhadz.com](https://bobbyhadz.com/blog/aws-cdk-share-resources-between-stacks)
 
 > If you use CDK v1, switch to the cdk-v1 branch
 
